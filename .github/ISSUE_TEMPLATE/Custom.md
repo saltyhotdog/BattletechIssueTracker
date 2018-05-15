@@ -1,15 +1,10 @@
 ---
-name: Severity 1
-about: Problems that break the VANILLA game in a COMMON way
+name: Access Request
+about: Request access to private code repository
 
 ---
 
-**Describe the problem**
-
-**Provide an example of the code where the problem occurs**
-
-**Provide an example of your proposed solution**
-
-**Provide a link to a commit in the private repo with the actual code**
+**What mods have you worked on for Battletech?**
+Please describe what mods you've worked on for Battletech and some of the code changes you've done that you're most proud of.
 
 **Leave any additional comments here**
