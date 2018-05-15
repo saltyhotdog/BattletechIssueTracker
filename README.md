@@ -74,7 +74,7 @@ You may provide code samples in the body of the issue, but please do not post fu
 
 If the admins feel your issue meets DEFINITION OF READY FOR HBS they will add the "HBS Ready" tag to it.
 
-If the admins feel you do not meet the criteria they will leave a clear comment explaining why and mark the issue as "Not Ready"
+If the admins feel you do not meet the criteria they will leave a clear explanation and mark the issue as "Not Ready"
 
 ## Definition of Ready for HBS
 
