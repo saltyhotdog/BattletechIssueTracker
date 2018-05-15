@@ -80,9 +80,9 @@ If the admins feel you do not meet the criteria they will leave a clear explanat
 
 If HBS review your issue they may respond with follow up questions or solutions. 
 
-HBS may close the ticket as "Resolved" if they've implemented a solution to your problem or answered your question to their satisfaction.
+HBS may close the issue as "Resolved" if they've implemented a solution to your problem or answered your question to their satisfaction.
 
-HBS may close the ticket as "Won't Do" for any reason. If this happens, don't worry, they're most likely protecting information they're not authorized to share with us.
+HBS may close the issue as "Won't Do" for any reason. If this happens, don't worry, they're most likely protecting information they're not authorized to share with us.
 
 ### 6. Issues with no activity will be closed
 
@@ -110,4 +110,4 @@ HBS reserves all rights to use or not use any solution or suggestion posted on t
 
 HBS reserves all rights to answer or not answer any question on this board.
 
-HBS reserves all rights to cease communication with this system at anytime for any reason.
+HBS reserves all rights to cease communication with this system at any time for any reason.
