@@ -76,6 +76,18 @@ If the admins feel your issue meets DEFINITION OF READY FOR HBS they will add th
 
 If the admins feel you do not meet the criteria they will leave a clear explanation and mark the issue as "Not Ready"
 
+### 5. Your issue MAY be reviewed by HBS
+
+If HBS review your issue they may respond with follow up questions or solutions. 
+
+HBS may close the ticket as "Resolved" if they've implemented a solution to your problem or answered your question to their satisfaction.
+
+HBS may close the ticket as "Won't Do" for any reason. If this happens, don't worry, they're most likely protecting information they're not authorized to share with us.
+
+### 6. Issues with no activity will be closed
+
+If an issue is tagged "HBS Ready" but has not received any official activity for at least 30 days, it will be closed.
+
 ## Definition of Ready for HBS
 
 For an issue to meet the DEFINTION OF READY FOR HBS an admin must deem that it meets the DEFINITION OF ACTIONABLE.
