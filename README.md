@@ -40,9 +40,9 @@ You have a CLEAR suggestion about an improvement or change that can be made to H
 
 ## Process
 
-### 0. Request access to pivate repo
+### 0. Request access to private repo
 
-If you don't have access to the private code repository please open an issue with the "Access Request" tag.
+If you don't have access to the private code repository, please open an issue with the "Access Request" tag.
 
 You must have examples on your github of mods you've made for Battletech and be in good standing with the community.
 
@@ -78,15 +78,15 @@ If the admins feel you do not meet the criteria they will leave a clear comment 
 
 ## Definition of Ready for HBS
 
-In order for an issue to meet the DEFINTION OF READY FOR HBS an admin must deem that it meets the DEFINITION OF ACTIONABLE.
+For an issue to meet the DEFINTION OF READY FOR HBS an admin must deem that it meets the DEFINITION OF ACTIONABLE.
 
 ## Getting Involved
 
 It is understandable that some may perceive this document as rigid and cold, but it is about building clear expectations so that everyone involved in this system can understand how to interact with it.
 
-We love modders and we want to help as many people get into modding this game as we can. The community has a great discord where many of us will happily assist you personally to learn the ropes. BATTLETECHGAME Discord: (https://discord.gg/uDbKcs)
+We love modders and we want to help as many people get into modding this game as we can. The community has a great discord where many of us will happily assist you personally to learn the ropes. BATTLETECHGAME Discord: https://discord.gg/uDbKcs
 
-Once you're involved with the community and you've made a mod or two, we will excitedly welcome you into this process so you can interact with the devs to have your questions answered.
+Once you're involved with the community and you've made a mod or two, we will excitedly welcome you into this process so you can interact with the devs and have your questions answered.
 
 Dev time is both precious and expensive, so we want to be able to get the best bang for our buck as a community. So come to discord and learn the ropes with us because this game has a bright modding future!
 
