@@ -78,7 +78,7 @@ If the admins feel you do not meet the criteria they will leave a clear explanat
 
 ### 5. Your issue MAY be reviewed by HBS
 
-If HBS review your issue they may respond with follow up questions or solutions. 
+If HBS reviews your issue they may respond with follow up questions or solutions. 
 
 HBS may close the issue as "Resolved" if they've implemented a solution to your problem or answered your question to their satisfaction.
 
