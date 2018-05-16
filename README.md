@@ -2,7 +2,7 @@
 
 Welcome to the Battletech Mod Creator Issue Tracker! All are welcome to browse current and past issues here: https://github.com/saltyhotdog/BattletechModDevIssues/issues
 
-This issue tracker has been created to centralize knowledge of problems and solutions in the Battletech modding community of a technical nature.
+This issue tracker has been created to centralize knowledge of **code related problems and solutions.**
 
 This issue tracker is not a wiki, please visit http://btmodding.warriorsblood.com/ for more generalized wiki information.
 
