@@ -1,12 +1,24 @@
 # Battletech Mod Creator Issue Tracker
 
-This issue tracker is to provide actionable feedback for HBS devs with as little overhead as possible.
+Welcome to the Battletech Mod Creator Issue Tracker! All are welcome to browse current and past issues here: https://github.com/saltyhotdog/BattletechModDevIssues/issues
 
-If you are a member of the general public, please feel free to browse the issues section of this github here: https://github.com/saltyhotdog/BattletechModDevIssues/issues
+This issue tracker has been created to centralize knowledge of problems and solutions in the Battletech modding community of a technical nature.
 
-If you are interested in becoming part of this issue tracker, please read this document thoroughly. Our goal is to create a clear and expected framework to most effectively communicate with HBS developers.
+This issue tracker is not a wiki, please visit http://btmodding.warriorsblood.com/ for more generalized wiki information.
 
-The desired result of this issue tracker is to create a source of vetted mod developer ideas that HBS can comfortably consume in their normal business processes.
+For general suggestions about the game we recommend visiting the official forums at https://forum.paradoxplaza.com/forum/index.php?forums/battletech.994/
+
+Please read the following guidelines carefully before posting, we want to build the most useful knowledgebase for current and future modders possible!
+
+# Creating Issues for Modder Input
+
+If you want to ask general questions to other members in the community, please follow these guidelines. HBS may respond to these posts if they wish, but if you want a better chance of a dev response please follow the guidelines in the "Creating Issues for HBS Input" section.
+
+# Creating Issues for HBS Input
+
+Our goal is to create a clear and expected framework to most effectively communicate with HBS developers. This will enable the community to interact with the development team in a more structured way 
+
+This framework may appear rigid, but it is created with the intent to establish clear expectations and clarity in communication to the HBS dev team. This minimizes the chances of miscommunication and allows for a clear understanding of process between all involved parties.
 
 ## Definition of Actionable
 
@@ -92,15 +104,9 @@ If an issue is tagged "HBS Ready" but has not received any official activity for
 
 For an issue to meet the DEFINTION OF READY FOR HBS an admin must deem that it meets the DEFINITION OF ACTIONABLE.
 
-## Getting Involved
+Admins may not mark their own posts as "HBS Ready"
 
-It is understandable that some may perceive this document as rigid and cold, but it is about building clear expectations so that everyone involved in this system can understand how to interact with it.
-
-We love modders and we want to help as many people get into modding this game as we can. The community has a great discord where many of us will happily assist you personally to learn the ropes. BATTLETECHGAME Discord: https://discord.gg/uDbKcs
-
-Once you're involved with the community and you've made a mod or two, we will excitedly welcome you into this process so you can interact with the devs and have your questions answered.
-
-Dev time is both precious and expensive, so we want to be able to get the best bang for our buck as a community. So come to discord and learn the ropes with us because this game has a bright modding future!
+HBS may decide to respond to any post not marked "HBS Ready"
 
 ## No Guarantee
 
