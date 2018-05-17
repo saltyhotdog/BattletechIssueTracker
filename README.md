@@ -14,6 +14,69 @@ Please read the following guidelines carefully before posting, we want to build 
 
 If you want to ask general questions to other members in the community, please follow these guidelines. HBS may respond to these posts if they wish, but if you want a better chance of a dev response please follow the guidelines in the "Creating Issues for HBS Input" section.
 
+## Definition of Ready
+
+Every issue posted for Modder Input must meet the definition of **READY**
+
+* There must be a clearly stated problem in your issue
+* If the problem is a question, it must be be reasonably answerable.
+* A suggestion must clearly describe the problem and provide an example of how to improve it.
+* Requests for help must give a clear status of the current problem, a reasonable solution, and the necessary steps to achieve it.
+
+## Issue Classifications
+
+### QUESTION: Any question about coding related issues
+
+Questions must reference existing code of the core game or a modification.
+
+Questions should have as many examples of the problem as possible.
+
+### SUGGESTION: Any suggestion for improving code or design
+
+Suggestions must reference existing code of the core game or a modification.
+
+Suggestions should have at least one possible outcome that is reasonably attainable.
+
+### HELP NEEDED: A request for community help with a technical project
+
+Requests for help do not need to reference specific code.
+
+Requests for help must clearly define what help is needed, why it is needed, and what anyone who helps must do to resolve the issue.
+
+## Process
+
+### 1. Clearly define your issue
+
+The number one objective of this issue tracker is clarity.
+
+Ensure that your issue can be clearly categorized into one of the above issue classifications.
+
+### 2. Open an issue with the appropriate tag
+
+Choose the tag that best fits your issue.
+
+Provide all details required for your issue to meet the DEFINITION OF READY.
+
+If your issue does not meet the definition of ready an admin may tag your issue with "Needs Work." After tagging your issue the admin must leave a clear explanation of what is needed for the issue to reach definition of ready.
+
+Admins may close issues at this point if they're duplicates, miscategorized, or aren't appropriate for this tracker.
+
+### 3. Engage with community responses
+
+Participate actively with the community members that respond to your ticket to ensure the best possible outcome is reached.
+
+This part of the process is meant to provide flexibility. Be as collaborative as possible with your fellow modders as everything entered into these tickets will provide in depth technical insight for the entire community.
+
+### 4. Close your issue once it has been resolved
+
+Once your issue has been resolved satisfactorily please close it.
+
+Admins may close issues, but they must leave a clear explanation of why the issue was closed.
+
+### 5. Issues with no activity will be closed
+
+After 30 days of no activity an issue will be closed.
+
 # Creating Issues for HBS Input
 
 Our goal is to create a clear and expected framework to most effectively communicate with HBS developers. This will enable the community to interact with the development team in a more structured way 
@@ -22,9 +85,10 @@ This framework may appear rigid, but it is created with the intent to establish 
 
 ## Definition of Actionable
 
-Every issue that is posted must first meet the qualification of being **ACTIONABLE**
+Every issue posted for HBS Input must first meet the qualification of being **ACTIONABLE**
 
 * There must be a clearly stated problem and a clearly stated example of the problem.
+* If the problem is reproducable, there must be clear instructions on how to reproduce it.
 * If the problem has a known solution, there must be a clearly stated example of the solution.
 * The issue must be able to be categorized in one of the following severities.
 
@@ -107,6 +171,14 @@ For an issue to meet the DEFINTION OF READY FOR HBS an admin must deem that it m
 Admins may not mark their own posts as "HBS Ready"
 
 HBS may decide to respond to any post not marked "HBS Ready"
+
+## Community Feedback
+
+At any point in this process an admin may tag an issue with "Community Feedback"
+
+If an issue is tagged with community feedback it is an open request for more modders to contribute to the discussion of the ticket before tagging it as "HBS Ready"
+
+HBS may respond to any issue in this status if they desire.
 
 ## No Guarantee
 
